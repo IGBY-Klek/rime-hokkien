@@ -10,7 +10,7 @@ schema:
     - 阿托 <a-thok@outlook.com>
   description: |
     閩南語輸入方案
-    採用「臺灣閩南語羅馬字拼音方案」
+    不採用「臺灣閩南語羅馬字拼音方案」
     http://www.ntcu.edu.tw/tailo/
 
 switches:
